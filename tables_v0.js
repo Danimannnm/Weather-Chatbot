@@ -1,5 +1,5 @@
-const API_KEY = 'f23d6fbff9c02246d5714cdd35b84d0d';
-const GEMINI_API_KEY = 'AIzaSyBkJnNYt_gZQDMgbnuC5Rh_S71h2saiMKE';
+const API_KEY = '';
+const GEMINI_API_KEY = '';
 
 const forecastTableBody = document.querySelector('#forecastTable tbody');
 const sortAscendingBtn = document.getElementById('sortAscending');
